@@ -72,9 +72,3 @@ Open another terminal:
 ```powershell
 python -m streamlit run dashboard/app.py
 ```
-
-## Development Budget
-
-Target: ₱0 during the initial development period.
-
-Paid services require prior approval.
